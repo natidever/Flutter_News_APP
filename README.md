@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # news_app
 
 
@@ -10,6 +10,7 @@
 
 The application utilizes GetX for state management, providing a streamlined solution for routing, dependency injection,
 and reactive programming to enhance scalability and maintainability.
+
 
 # Folder Structure
 The project is structured to ensure scalability, maintainability, and ease of development. Below is an overview of the folder structure:
@@ -40,6 +41,10 @@ lib/
     ├── news_card.dart
     └── loading_indicator.dart
 ```
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
